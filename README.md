@@ -1,2 +1,2 @@
 # macroeconomicsbr
-A few codes on macroeconomics indicators in Brazil.
+A few codes on Macroeconomics indicators in Brazil.
